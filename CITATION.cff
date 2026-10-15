@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the Stage 1 Registered Report."
+title: "Materials for: Registered Report: Is Algorithm Aversion a Rule or a Weight? Decision Strategies and Reasons Elicited by a Large Language Model"
+type: dataset
+abstract: "Stage 1 materials for a Registered Report submitted to Psychological Science: the English questionnaire with the interviewer prompt (Supplement S1), the pipeline documentation (Supplement S2) and the coding protocol. No data have been collected yet."
+authors:
+  - family-names: Karpa
+    given-names: David
+    affiliation: Technical University of Munich
+  - family-names: Agarwal
+    given-names: Vaibhav
+    affiliation: Technical University of Munich
+  - family-names: Lagus
+    given-names: Krista
+    affiliation: University of Helsinki
+  - family-names: Vehkalahti
+    given-names: Kimmo
+    affiliation: University of Helsinki
+  - family-names: Gritsenko
+    given-names: Daria
+    affiliation: Technical University of Munich
+version: "stage1-2026-10"
+license: CC0-1.0
+doi: 10.5281/zenodo.23362235
+repository-code: "https://github.com/dkarpa/lata-registered-report"
+keywords:
+  - algorithm aversion
+  - conjoint experiment
+  - decision strategies
+  - large language models
+  - verbal reports
+  - registered report

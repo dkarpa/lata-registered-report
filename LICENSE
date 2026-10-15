@@ -1,0 +1,15 @@
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+The authors of this repository have dedicated the work to the public domain by
+waiving all of their rights to the work worldwide under copyright law,
+including all related and neighboring rights, to the extent allowed by law.
+
+You can copy, modify, distribute and perform the work, even for commercial
+purposes, all without asking permission.
+
+Full legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Scholarly use: please cite the Stage 1 Registered Report (see CITATION.cff).
+
+The coding prompt adapts the prompt published by Fulawka, Hertwig and Wulff
+(2026), https://github.com/kfulawka/llm-decision-reasons.
